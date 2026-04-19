@@ -11,5 +11,3 @@ python bmi_calculator.py
 Formula
 BMI = weight / (height²)
 
-Author
-P Lavanya
